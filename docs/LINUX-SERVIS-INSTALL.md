@@ -8,7 +8,7 @@ _Настройка бота как службы позволяет запуск
 2. Откройте терминал и перейдите в эту папку:
     `cd root/example_folder`
 3. Клонируйте репозиторий с помощью [git](https://www.git-scm.com/):
-    `git clone https://github.com/shamhi/HamsterKombatBot.git`
+    `git clone https://github.com/bimba-gainer/HamsterKombatBot.git`
 4. Перейдите в клонированный репозиторий:
     `cd root/example_folder/HamsterKombatBot`
 
