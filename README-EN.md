@@ -15,7 +15,7 @@
 | Random number of clicks per request                            |     ✅     |
 | Support tdata / pyrogram .session / telethon .session          |     ✅     |
 
-## [Settings](https://github.com/shamhi/HamsterKombatBot/blob/main/.env-example)
+
 | Настройка                | Описание                                                                                 |
 |--------------------------|------------------------------------------------------------------------------------------|
 | **API_ID / API_HASH**    | Platform data from which to launch a Telegram session _(stock - Android)_                |
@@ -45,9 +45,9 @@ Before you begin, ensure you have the following installed:
 3. Note down the `API_ID` and `API_HASH` in `.env` file provided after registering your application.
 
 ## Installation
-You can download [**Repository**](https://github.com/shamhi/HamsterKombatBot) by cloning it to your system and installing the necessary dependencies:
+You can download [**Repository**](https://github.com/bimba-gainer/HamsterKombatBot) by cloning it to your system and installing the necessary dependencies:
 ```shell
-~ >>> git clone https://github.com/shamhi/HamsterKombatBot.git
+~ >>> git clone https://github.com/bimba-gainer/HamsterKombatBot.git
 ~ >>> cd HamsterKombatBot
 
 #Linux
