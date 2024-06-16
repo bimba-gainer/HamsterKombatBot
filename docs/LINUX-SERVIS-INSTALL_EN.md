@@ -8,7 +8,7 @@ _Setting bot as service allows you to run it in backrgound and easily control._
 2. Open terminal and navigate to this folder:
     `cd root/example_folder`
 3. Clone bot using [git](https://www.git-scm.com/):
-    `git clone https://github.com/shamhi/HamsterKombatBot.git`
+    `git clone https://github.com/bimba-gainer/HamsterKombatBot.git`
 4. Navigate to clonned repository:
     `cd root/example_folder/HamsterKombatBot`
 
