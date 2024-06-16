@@ -11,7 +11,7 @@ permissions:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: ghcr.io/shamhi/hamsterkombatbot
+  IMAGE_NAME: ghcr.io/bimba-gainer/HamsterKombatBot
 
 jobs:
   build_push:
